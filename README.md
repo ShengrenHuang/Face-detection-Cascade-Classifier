@@ -1,7 +1,7 @@
 # Face-detection-Cascade-Classifier
 
 
-
+在本項練習中，參考[1]，我們利用opencv 內建的 face cascade classifier 來判斷由視訊攝影機讀入的照片中是否有人臉
 
 
 
@@ -17,4 +17,4 @@
 
 
 # Reference
-https://www.youtube.com/watch?v=LopYA64KmdE&ab_channel=ProgrammingKnowledge
+[1] https://www.youtube.com/watch?v=LopYA64KmdE&ab_channel=ProgrammingKnowledge
