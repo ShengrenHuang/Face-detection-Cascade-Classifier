@@ -17,4 +17,5 @@
 
 
 # Reference
-[1] https://www.youtube.com/watch?v=LopYA64KmdE&ab_channel=ProgrammingKnowledge
+[1] https://www.youtube.com/watch?v=LopYA64KmdE&ab_channel=ProgrammingKnowledge  
+[2] Rapid Object Detection using a Boosted Cascade of Simple Features
