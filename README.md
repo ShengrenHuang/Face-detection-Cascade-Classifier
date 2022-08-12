@@ -1,6 +1,12 @@
 # Face-detection-Cascade-Classifier
 
 
+
+
+In this practice, we aim to utilize the cascade classifier with Haar feature to detect the human faces. The well-known cascade classifier is proposed by Paul Viola and Minchael Jones in 2001 [2].  
+
+
+
 在本項練習中，參考[1]，我們利用opencv 內建的 face cascade classifier 來判斷由視訊攝影機讀入的照片中是否有人臉
 
 
