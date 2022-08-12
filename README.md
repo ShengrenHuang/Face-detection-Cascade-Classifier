@@ -3,7 +3,7 @@
 
 
 
-In this practice, we aim to utilize the cascade classifier with Haar feature to detect the human faces. The well-known cascade classifier is proposed by Paul Viola and Minchael Jones in 2001 [2].  
+In this practice, we aim to utilize the cascade classifier with Haar feature to detect the human faces. The well-known cascade classifier is proposed by Paul Viola and Minchael Jones in 2001 [2]. The first step to implement cascade classifier is to gather the training samples which can be seperated into two parts, positive images (contains the human face(s)) and negative images (the target scene without human faces or unrelated image). 
 
 
 
