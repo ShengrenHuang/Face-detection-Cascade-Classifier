@@ -22,6 +22,6 @@ https://user-images.githubusercontent.com/108604868/184277815-4c95d218-2102-4358
 
 
 # Reference
-[1] Paul Viola and Michael Jones. Rapid Object Detection using a Boosted Cascade of Simple Features, 2001.
+[1] Paul Viola and Michael Jones. Rapid Object Detection using a Boosted Cascade of Simple Features, 2001.  
 [2] OpenCV Python Tutorial For Beginners 35 - Face Detection using Haar Cascade Classifiers:  
 https://www.youtube.com/watch?v=LopYA64KmdE&ab_channel=ProgrammingKnowledge  
